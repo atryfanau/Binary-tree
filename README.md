@@ -1,5 +1,5 @@
 # Binary-tree
-This is my simple algorithm that would take any text and give you output with the count of each word displayed in alphabetic order
+This is my algorithm that takes text data as input, sorts it using binary tree, and converts into text output that counts every word used displaying in alphabetic order.
 
 # How to build?
 
